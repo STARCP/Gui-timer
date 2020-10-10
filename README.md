@@ -1,4 +1,4 @@
-#Gui-timer
+Gui-timer
 
 A simple gui-timer for countdown.
 
